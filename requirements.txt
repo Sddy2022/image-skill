@@ -1,0 +1,10 @@
+torch>=1.13.0
+diffusers>=0.20.0
+transformers>=4.30.0
+accelerate>=0.18.0
+safetensors
+huggingface_hub
+gradio
+Pillow
+tqdm
+python-dotenv

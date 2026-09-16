@@ -1,0 +1,7 @@
+# Additional requirements for API, upscaling, and serving
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+aiofiles
+realesrgan

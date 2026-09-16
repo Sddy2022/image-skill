@@ -1,0 +1,23 @@
+# Prompt templates for quick use
+# You can load this YAML/JSON in the UI or via the API client
+
+- name: Photorealistic portrait
+  prompt: "A portrait of a young woman, cinematic lighting, 50mm, shallow depth of field, photorealistic"
+  steps: 30
+  guidance: 7.5
+  width: 512
+  height: 512
+
+- name: Cyberpunk street
+  prompt: "Cyberpunk city at night, neon signs, rainy street, wide angle, high detail, concept art"
+  steps: 30
+  guidance: 8.0
+  width: 768
+  height: 512
+
+- name: Watercolor owl
+  prompt: "Watercolor painting of an owl in a forest, soft colors, delicate brush strokes"
+  steps: 25
+  guidance: 6.5
+  width: 512
+  height: 512
